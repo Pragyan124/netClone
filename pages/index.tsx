@@ -34,7 +34,7 @@ const Home = ({
   romanceMovies,
   topRated,
   trendingNow,
-  products,
+ 
 }: Props) =>{ 
  
   const {logout ,loading} =useAuth()
