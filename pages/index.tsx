@@ -23,7 +23,7 @@ interface Props {
   horrorMovies: Movie[]
   romanceMovies: Movie[]
   documentaries: Movie[]
-  products: Product[]
+  
 }
 const Home = ({
   netflixOriginals,
